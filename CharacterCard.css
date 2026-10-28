@@ -1,0 +1,15 @@
+.characterCard{
+
+background:#1D1D1D;
+
+padding:25px;
+
+border-radius:20px;
+
+display:flex;
+
+flex-direction:column;
+
+gap:10px;
+
+}

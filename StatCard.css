@@ -1,0 +1,35 @@
+.statCard{
+
+background:#222831;
+
+padding:20px;
+
+border-radius:18px;
+
+display:flex;
+
+flex-direction:column;
+
+gap:8px;
+
+box-shadow:0 8px 20px rgba(0,0,0,.25);
+
+}
+
+.statCard h1{
+
+font-size:32px;
+
+margin:0;
+
+}
+
+.statCard h3{
+
+margin:0;
+
+font-weight:500;
+
+opacity:.8;
+
+}
