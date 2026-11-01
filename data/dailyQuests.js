@@ -1,0 +1,157 @@
+const dailyQuests=[
+
+{
+id:"brush_teeth",
+title:"🦷 Brush Teeth",
+description:"Brush your teeth once today.",
+type:"habit",
+target:"brush_teeth",
+progress:0,
+goal:1,
+academy:"health",
+skill:null,
+difficulty:"Easy",
+rarity:"Common",
+xp:25,
+coins:5,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+},
+
+{
+id:"drink_water",
+title:"💧 Hydration Master",
+description:"Drink 2 liters of water.",
+type:"habit",
+target:"drink_water",
+progress:0,
+goal:1,
+academy:"health",
+skill:null,
+difficulty:"Easy",
+rarity:"Common",
+xp:30,
+coins:10,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+},
+
+{
+id:"java_lesson",
+title:"☕ Java Apprentice",
+description:"Complete one Java lesson.",
+type:"skill",
+target:"Java",
+progress:0,
+goal:1,
+academy:"programming",
+skill:"Java",
+difficulty:"Easy",
+rarity:"Common",
+xp:80,
+coins:20,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+},
+
+{
+id:"study",
+title:"🎓 Study Session",
+description:"Complete any lesson.",
+type:"lesson",
+target:"any",
+progress:0,
+goal:1,
+academy:"university",
+skill:null,
+difficulty:"Easy",
+rarity:"Common",
+xp:100,
+coins:25,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+},
+
+{
+id:"drawing",
+title:"🎨 Sketch Hunter",
+description:"Draw for 30 minutes.",
+type:"habit",
+target:"drawing",
+progress:0,
+goal:1,
+academy:"drawing",
+skill:null,
+difficulty:"Medium",
+rarity:"Common",
+xp:120,
+coins:30,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+},
+
+{
+id:"singing",
+title:"🎤 Vocal Training",
+description:"Practice singing.",
+type:"habit",
+target:"singing",
+progress:0,
+goal:1,
+academy:"singing",
+skill:null,
+difficulty:"Medium",
+rarity:"Common",
+xp:120,
+coins:30,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+},
+
+{
+id:"coding",
+title:"💻 Code Time",
+description:"Complete two programming lessons.",
+type:"academy",
+target:"programming",
+progress:0,
+goal:2,
+academy:"programming",
+skill:null,
+difficulty:"Hard",
+rarity:"Rare",
+xp:250,
+coins:70,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+},
+
+{
+id:"read",
+title:"📚 Reader",
+description:"Read for 20 minutes.",
+type:"habit",
+target:"reading",
+progress:0,
+goal:1,
+academy:"reading",
+skill:null,
+difficulty:"Easy",
+rarity:"Common",
+xp:80,
+coins:20,
+repeatable:true,
+completed:false,
+rewardClaimed:false
+}
+
+];
+
+export default dailyQuests;

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "academyId": 1,
+    "title": "Perspective Basics",
+    "duration": 45,
+    "xp": 200
+  },
+  {
+    "id": 2,
+    "academyId": 2,
+    "title": "Java Classes",
+    "duration": 60,
+    "xp": 300
+  },
+  {
+    "id": 3,
+    "academyId": 3,
+    "title": "Breathing Exercise",
+    "duration": 30,
+    "xp": 150
+  }
+]

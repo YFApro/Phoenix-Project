@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Procrastination",
+    "level": 5,
+    "hp": 500,
+    "rewardXP": 1000,
+    "rewardCoins": 250
+  },
+  {
+    "id": 2,
+    "name": "Burnout",
+    "level": 20,
+    "hp": 2000,
+    "rewardXP": 4000,
+    "rewardCoins": 1200
+  }
+]

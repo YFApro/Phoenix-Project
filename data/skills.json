@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "academyId": 1,
+    "name": "Perspective",
+    "level": 1,
+    "xp": 0
+  },
+  {
+    "id": 2,
+    "academyId": 2,
+    "name": "Java",
+    "level": 1,
+    "xp": 0
+  },
+  {
+    "id": 3,
+    "academyId": 3,
+    "name": "Breathing",
+    "level": 1,
+    "xp": 0
+  }
+]

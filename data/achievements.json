@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "First Quest",
+    "description": "Complete your first quest.",
+    "xp": 200,
+    "coins": 50
+  },
+  {
+    "id": 2,
+    "name": "Level 10",
+    "description": "Reach level 10.",
+    "xp": 500,
+    "coins": 150
+  }
+]

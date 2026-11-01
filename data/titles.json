@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Beginner",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "title": "Scholar",
+    "level": 10
+  },
+  {
+    "id": 3,
+    "title": "Master",
+    "level": 50
+  }
+]

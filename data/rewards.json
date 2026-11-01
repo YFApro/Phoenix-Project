@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Watch one anime episode",
+    "cost": 250
+  },
+  {
+    "id": 2,
+    "name": "Buy a snack",
+    "cost": 500
+  },
+  {
+    "id": 3,
+    "name": "Gaming session",
+    "cost": 750
+  }
+]

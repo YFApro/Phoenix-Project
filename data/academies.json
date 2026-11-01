@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Drawing",
+    "color": "#D7263D",
+    "icon": "🎨"
+  },
+  {
+    "id": 2,
+    "name": "Programming",
+    "color": "#4E89FF",
+    "icon": "💻"
+  },
+  {
+    "id": 3,
+    "name": "Singing",
+    "color": "#FF5FA2",
+    "icon": "🎤"
+  },
+  {
+    "id": 4,
+    "name": "Languages",
+    "color": "#38C172",
+    "icon": "🌍"
+  }
+]
